@@ -125,7 +125,7 @@ nav {
 
 @media (max-width: 900px) {
     .hero-section {
-        grid-template-columns: 1fr;
+        flex-direction: column;
         text-align: center;
         padding: 40px 20px;
     }
